@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Kumar
 
-<!--
-**ashishkumar8112008-droid/ashishkumar8112008-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Lovely Professional University (LPU)
 
-Here are some ideas to get you started:
+🚀 Building projects in Web Development, AI and Productivity Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* MySQL
+* Git
+* GitHub
+
+---
+
+## 📌 Featured Projects
+
+| Project                    | Description                                     | Repository                                                   |
+| -------------------------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| 📅 UniNotes Weekly Planner | Student productivity planner with local storage | [Repo](https://github.com/ashishkumar8112008-droid/uninotes) |
+| 📚 Campus Library          | Library management website                      | Coming Soon                                                  |
+| 📖 Book E-commerce         | Online bookstore website                        | Coming Soon                                                  |
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/ashish-kumar-859842250
+
+🐙 GitHub: https://github.com/ashishkumar8112008-droid
+
+---
+
+⭐ Always learning, always building.
