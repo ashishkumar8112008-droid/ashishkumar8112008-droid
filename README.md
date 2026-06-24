@@ -23,7 +23,7 @@
 | Project                    | Description                                     | Live Demo      | Repo                                                         |
 | -------------------------- | ----------------------------------------------- | -------------- | ------------------------------------------------------------ |
 | 📖 UniHub E-Book Library  A free digital library offering 100+ e-books across 10+ categories with an easy-to-use interface. | [Live](https://unihub-book-library.vercel.app/) | [Repo](https://github.com/ashishkumar8112008-droid/unihub-book-library) |
-| 📅 UniNotes Weekly Planner | Student productivity planner with Local Storage | 🚧 Coming Soon | [Repo](https://github.com/ashishkumar8112008-droid/uninotes) |
+| 📅 UniNotes Weekly Planner | Student productivity planner with Local Storage | Live(https://uninotes-rho.vercel.app/) | [Repo](https://github.com/ashishkumar8112008-droid/uninotes) |
 | 📚 Campus Library          | Library management website                      | 🚧 Coming Soon | Coming Soon                                                  |
 | 📖 Book E-commerce         | Online bookstore website                        | 🚧 Coming Soon | Coming Soon                                                  |
 
