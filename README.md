@@ -24,8 +24,9 @@
 | -------------------------- | ----------------------------------------------- | -------------- | ------------------------------------------------------------ |
 | 📖 UniHub E-Book Library | A free digital library offering 100+ e-books across 10+ categories with an easy-to-use interface. | [Live](https://unihub-book-library.vercel.app/) | [Repo](https://github.com/ashishkumar8112008-droid/unihub-book-library) |
 | 📅 UniNotes Weekly Planner | Student productivity planner with Local Storage | [Live](https://uninotes-rho.vercel.app/) | [Repo](https://github.com/ashishkumar8112008-droid/uninotes) |
-| 📚 Campus Library          | Library management website                      | 🚧 Coming Soon | Coming Soon                                                  |
-| 📖 Book E-commerce         | Online bookstore website                        | 🚧 Coming Soon | Coming Soon                                                  |
+| 📖 Study Room              |  A student-built EdTech platform designed to help first-year students practice exam-style MCQs, track performance and strengthen core concepts                       | [live](https://study-room-silk.vercel.app/) | [Repo](https://github.com/ashishkumar8112008-droid/Study_room)   
+| 📚 Gst-Calctlater          |  A simple and responsive GST calculator to instantly calculate GST amount, total price and tax breakdown for different GST rates.                 |[Live](https://gstcalculator-steel.vercel.app/)| [Repo](https://github.com/ashishkumar8112008-droid/gst_calculator)  |
+| 🌤️ Weather API Integration | Real-time weather dashboard with live weather data, temperature, humidity and wind speed | [Live](https://weather-api-integration-kappa.vercel.app/) | [Repo](https://github.com/ashishkumar8112008-droid/weather-api-integration) |
 
 ---
 
